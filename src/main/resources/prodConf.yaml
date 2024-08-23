@@ -1,0 +1,5 @@
+BASE_URL: https://www.amazon.ae/
+EMAIL_NOT_REGISTERED_IN_AMAZON: ienso098098@gmail.com
+ERROR_MESSAGE: We cannot find an account with that email address
+CATEGORY_NUMBER: 1
+PRODUCT_QTY: 3
